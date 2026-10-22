@@ -1,7 +1,8 @@
 # APD – Laborator
 
 Proiect de laborator pentru disciplina Achiziția și prelucrarea datelor.
-Nod de achiziție a temperaturii bazat pe Arduino Uno.Platformă: Arduino Uno R3 (ATmega328P)
+Nod de achiziție a temperaturii bazat pe ArduinoUno. 
+Platformă: Arduino Uno R3 (ATmega328P)
 Autor laborator: Mohammad Hossein Mohsenpour
 
 ## Parametri
