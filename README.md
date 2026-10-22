@@ -11,3 +11,4 @@ Autor laborator: Mohammad Hossein Mohsenpour
 - SERIAL_BAUD: 9600 – viteza comunicației seriale.
 - LED_PIN: 13 – pinul LED-ului de stare.
 - BUTTON_PIN: 2 – butonul de pornire/oprire a achiziției.
+Comunicație serială la 115200 baud
