@@ -14,3 +14,8 @@ Autor laborator: Mohammad Hossein Mohsenpour
 - BUTTON_PIN: 2 – butonul de pornire/oprire a achiziției.
 Comunicație serială la 115200 baud
 Comunicație serială la 19200 baud
+
+## Senzori utilizati
+| Senzor | Interfata
+| --- | --- | --- |
+| TMSC69 | Digital (A1) | +30C
